@@ -1,0 +1,11 @@
+id, purchase date, ship-to name, customer email, grant total (purchased), status
+1000110050, Jul 7 2023 11:39:54 AM, Bilbo Baggins, bilbo@lotr.com, 31.750, completed
+AP3000020621, Jul 7 2023 12:03:10 PM, Frodo Baggins, frodo@lotr.com, 24.0000, completed
+6000017749, Jul 7 2023 12:16:47 PM, Samwise Gamgee, sam@lotr.com, 36.0000, completed
+1000110061, Jul 8 2023 08:26:04 PM, Merriadoc Brandybuck, marry@lotr.com, 48.950, completed
+1000110063, Jul 9 2023 12:45:17 AM, Peregrin Took, pippin@lotr.com, 75.6000, completed
+1000110084, Jul 10 2023 11:14:34 AM, Boromir, boromir@lotr.com, 12.0000, processing
+AP3000020637, Jul 11 2023 06:13:11 PM, Gimli, gimli@lotr.com, 35.0000, processing
+3000014952, Jul 11 2023 07:37:10 PM, Legolas, legolas@lotr.com, 36.2400, processing
+A19000000008, Jul 12 2023 01:26:14 AM, Aragorn, aragorn@lotr.com, 43.2600, new
+AP3000020640, Jul 12 2023 04:00:37 AM, Gandalf, gandalf@lotr.com, 39.000, new
